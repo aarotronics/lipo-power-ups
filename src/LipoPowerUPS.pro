@@ -1,4 +1,4 @@
-update=02/03/2020 23:46:47
+update=Sun 15 Nov 2020 14:38:03 CET
 version=1
 last_client=kicad
 [general]
@@ -241,7 +241,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=C:/Users/Aaron/Desktop/PowerDistributionBoard/
+PlotDirectoryName=/home/aaron/Desktop/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
